@@ -4,9 +4,9 @@ Blue
 Cyan
 Yellow
 Charcoal
-Khaki
-Coral
-Silver
+Black
+White 
+Chartreuse
 Fushia
 Purple
 Brown
